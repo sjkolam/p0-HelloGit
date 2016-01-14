@@ -10,7 +10,7 @@ public class HelloGit {
      */
     public static void main(String[] args) {
         //outputs the string "Hello World!" to the console
-        System.out.println("Hello World!");
+        System.out.println("Hello Git!");
     }
     
 }
