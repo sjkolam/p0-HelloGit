@@ -1,5 +1,3 @@
-package hellogit;
-
 /**
  * Author: Jeff Whitworth
  * Program 0 - HelloGit
